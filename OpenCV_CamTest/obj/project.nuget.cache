@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "X6MSWJaXsl3apncqu42VVDDFALoZFlEzVXL9Mmdm/ZQ7OyYITzzM2v+8i3PGiA9sMWbKzqkgY7Hmh0vymxNvIQ==",
+  "success": true,
+  "projectFilePath": "D:\\Private\\WindowsFormApp\\OpenCV\\OpenCV_CamTest\\OpenCV_CamTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lioie\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\lioie\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\lioie\\.nuget\\packages\\opencvsharp3-anycpu\\4.0.0.20181129\\opencvsharp3-anycpu.4.0.0.20181129.nupkg.sha512",
+    "C:\\Users\\lioie\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
